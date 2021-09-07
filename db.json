@@ -1,0 +1,17 @@
+{
+    
+    "profileList": {
+      "name": "Jack Mathew",
+      "output": "response for your name"
+    },
+
+    "errorList":{
+        "error404": "page not found",
+        "error401": "you are not logged in"
+    },
+
+    "errorReader":{
+        "errorType": "Here's the name of error",
+        "errorMsg": "Here's the displayed error message"
+    }
+  }
